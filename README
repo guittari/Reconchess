@@ -1,0 +1,15 @@
+#BYTESchallenge
+Team: Skrrting_Badgers
+Bot name: SkrrtBot
+
+Team members: Nicole, Elizabeth, Elijah, Erin, Chi, Antonio
+
+---------------------------------------------------------------------------------------------------------
+SkrrtBot.py:
+The implementation of our bot's functionality is found here. SkrrtBot is modeled after trout_bot and uses
+the Stockfish chess engine to simulate moves.
+
+experiment.py:
+This script is used to test the win percentage of one bot against another. The script runs 50 trials and
+prints how many games out of 50 were won. We are using this script to test our bot against other
+reconchess bots.
